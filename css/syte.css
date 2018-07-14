@@ -2,8 +2,11 @@ body {
     margin: 2em;
 }
 h1 {
-    font-family: "Lobster", "Fira Code Medium", sans-serif;
+    font-family: "Lobster", "Fira Code Medium", serif;
 }
-p {
-    font-family: 'Roboto', serif;
+/*p {*/
+    /*font-family: 'Roboto', sans-serif;*/
+/*}*/
+.detailed {
+    font-family: 'Roboto Condensed', sans-serif;
 }
